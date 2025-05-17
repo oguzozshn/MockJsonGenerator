@@ -1,0 +1,17 @@
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\SqlDataGenerator.exe
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\SqlDataGenerator.deps.json
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\SqlDataGenerator.runtimeconfig.json
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\SqlDataGenerator.dll
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\SqlDataGenerator.pdb
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.csproj.AssemblyReference.cache
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.AssemblyInfoInputs.cache
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.AssemblyInfo.cs
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataG.8254D05A.Up2Date
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.dll
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\refint\SqlDataGenerator.dll
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.pdb
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\SqlDataGenerator.genruntimeconfig.cache
+C:\Users\oguzo\OneDrive\Desktop\Mühendislik\Projects\SqlDataGenerator\SqlDataGenerator\obj\Debug\net8.0\ref\SqlDataGenerator.dll

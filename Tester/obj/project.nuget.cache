@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QqjycQGens=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguzo\\OneDrive\\Desktop\\Mühendislik\\Projects\\SqlDataGenerator\\Tester\\Tester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
